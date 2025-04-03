@@ -60,7 +60,7 @@
 </head>
 <body>
     <div class="header">
-        <h1>T.Ramachandiran </h1></h1>
+        <h1>T.Ramachandiran </h1>
         <p>Student </p>
     </div>
     <div class="nav">
