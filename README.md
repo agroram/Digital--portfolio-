@@ -60,7 +60,7 @@
 </head>
 <body>
     <div class="header">
-        <h1>T.Ramachandiran </h1>
+        <h1>T.Ramachandiran </h1></h1>
         <p>Student </p>
     </div>
     <div class="nav">
@@ -73,7 +73,7 @@
     <div class="container">
         <div id="about" class="section">
             <h2>About Me</h2>
-            <p>I am a cybersecurity expert passionate about protecting data and creating secure environments. As an NSS Coordinator, I lead initiatives for community development. Additionally, I am an avid chess player who enjoys strategic thinking.</p>
+            <p>I am a cybersecurity expert and chess player .</p>
         </div>
         <div id="education" class="section">
             <h2>Education</h2>
@@ -105,7 +105,7 @@
         </div>
     </div>
     <div class="footer">
-        <p>&copy; 2025 T.Ramachandiean </p>
+        <p>&copy; 2025 T.Ramachandiran</p>
     </div>
 </body>
 </html>
